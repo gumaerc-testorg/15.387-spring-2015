@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Readings and Case Assignments
 uid: d0844964-93ae-dcb1-b523-9942ca8708c6
 ---

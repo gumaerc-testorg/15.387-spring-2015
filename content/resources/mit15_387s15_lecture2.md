@@ -2,8 +2,13 @@
 content_type: resource
 description: 'This resource contains the information regarding The Sale: Preparation,
   Approach, and Presentation/Demonstration.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-387-entrepreneurial-sales-spring-2015/f624cbdac29b7bcab19f95af50d88bfb_MIT15_387S15_Lecture2.pdf
+file: /media/courses/15-387-entrepreneurial-sales-spring-2015/f624cbdac29b7bcab19f95af50d88bfb_MIT15_387S15_Lecture2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 2: The Sale: Preparation, Approach, and Presentation/Demonstration
   - 15.387 Spring 2015'

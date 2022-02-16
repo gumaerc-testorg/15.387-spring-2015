@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains the information regarding LuLu Instruments.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-387-entrepreneurial-sales-spring-2015/ef048cfbefb23b3ce89a43bdfbcee7a3_MIT15_387S15_LuLu_Instrum.pdf
+file: /media/courses/15-387-entrepreneurial-sales-spring-2015/ef048cfbefb23b3ce89a43bdfbcee7a3_MIT15_387S15_LuLu_Instrum.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Readings and Case Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 'Case: LuLu Instruments - 15.387 Spring 2015'
 uid: ef048cfb-efb2-3b3c-e89a-43bdfbcee7a3
