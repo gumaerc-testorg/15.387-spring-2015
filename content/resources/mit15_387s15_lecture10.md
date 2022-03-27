@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ba12fd09-fd5a-ef65-064f-20546074b33b
 resourcetype: Document
 title: 'Lecture 10: Scaling Inside Sales - Qualtrics - 15.387 Spring 2015'
 uid: 004a4f27-2ebf-089e-32fc-ae0d2916b302

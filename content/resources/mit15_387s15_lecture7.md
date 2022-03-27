@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ba12fd09-fd5a-ef65-064f-20546074b33b
 resourcetype: Document
 title: 'Lecture 7: Channel Conflict - Formprint - 15.387 Spring 2015'
 uid: f2eb5cfb-fe45-b8b7-8639-c05c1dbf4646

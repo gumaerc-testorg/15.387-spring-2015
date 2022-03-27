@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings and Case Assignments
 parent_type: CourseSection
+parent_uid: d0844964-93ae-dcb1-b523-9942ca8708c6
 resourcetype: Document
 title: 'Case: Catherine Competitive Corporation A & B - 15.387 Spring 2015'
 uid: 8834a63f-ec80-2bc1-c177-d8c2cfb166ba

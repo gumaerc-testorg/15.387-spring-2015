@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ba12fd09-fd5a-ef65-064f-20546074b33b
 resourcetype: Document
 title: 'Lecture 14: OEM Sales - EMC and OuterBay - 15.387 Spring 2015'
 uid: d0ff67a6-a3bc-1030-194c-2a2964c4edc6

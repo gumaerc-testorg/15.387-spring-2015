@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings and Case Assignments
 parent_type: CourseSection
+parent_uid: d0844964-93ae-dcb1-b523-9942ca8708c6
 resourcetype: Document
 title: 'Case: Delphi Software - 15.387 Spring 2015'
 uid: 823d76a3-e08c-d44d-dffd-3448c00c7eff

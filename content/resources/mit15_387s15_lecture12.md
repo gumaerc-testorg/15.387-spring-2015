@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ba12fd09-fd5a-ef65-064f-20546074b33b
 resourcetype: Document
 title: 'Lecture 12: Expanding to the U.S. Market - CustomerGauge - 15.387 Spring 2015'
 uid: 694e289d-bda6-9d29-36e6-bc301ee1acc7

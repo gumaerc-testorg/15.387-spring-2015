@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings and Case Assignments
 parent_type: CourseSection
+parent_uid: d0844964-93ae-dcb1-b523-9942ca8708c6
 resourcetype: Document
 title: "Edge Analytics \u2013 15.387 Spring 2015"
 uid: 5f5b4936-af99-9b6c-07f3-a47c73cf9a4e

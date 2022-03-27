@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ba12fd09-fd5a-ef65-064f-20546074b33b
 resourcetype: Document
 title: 'Lecture 13: Sales Force Reorganization - Veritas - 15.387 Spring 2015'
 uid: 4613f42c-4048-e3aa-317c-a5b6345f5004

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ba12fd09-fd5a-ef65-064f-20546074b33b
 resourcetype: Document
 title: 'Lecture 9: Combining Sales Forces - Bay Networks A & B - 15.387 Spring 2015'
 uid: 3ab23a2d-d73f-38b6-1ef3-e2a727c31c66

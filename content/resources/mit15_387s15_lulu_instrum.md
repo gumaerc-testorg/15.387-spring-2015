@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings and Case Assignments
 parent_type: CourseSection
+parent_uid: d0844964-93ae-dcb1-b523-9942ca8708c6
 resourcetype: Document
 title: 'Case: LuLu Instruments - 15.387 Spring 2015'
 uid: ef048cfb-efb2-3b3c-e89a-43bdfbcee7a3

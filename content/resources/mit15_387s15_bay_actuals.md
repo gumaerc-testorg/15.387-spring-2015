@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings and Case Assignments
 parent_type: CourseSection
+parent_uid: d0844964-93ae-dcb1-b523-9942ca8708c6
 resourcetype: Other
 title: MIT15_387S15_Bay_Actuals.xlsx
 uid: 6fcf0199-1df7-0eee-e05d-0d326c0844df

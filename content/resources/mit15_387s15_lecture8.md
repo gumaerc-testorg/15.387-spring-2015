@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ba12fd09-fd5a-ef65-064f-20546074b33b
 resourcetype: Document
 title: 'Lecture 8: The Day-to-Day of a District Manager - NetApp - 15.387 Spring 2015'
 uid: 1c6c9c82-5c7e-77d6-4025-19b867944d56

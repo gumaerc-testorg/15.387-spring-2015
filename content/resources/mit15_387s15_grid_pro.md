@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings and Case Assignments
 parent_type: CourseSection
+parent_uid: d0844964-93ae-dcb1-b523-9942ca8708c6
 resourcetype: Document
 title: 'Case: GridPro - 15.387 Spring 2015'
 uid: c52b266f-35e4-6bc7-e70d-3cfbe3a17deb

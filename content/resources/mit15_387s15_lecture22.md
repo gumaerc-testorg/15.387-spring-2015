@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ba12fd09-fd5a-ef65-064f-20546074b33b
 resourcetype: Document
 title: 'Lecture 22: Wrap Up - 15.387 Spring 2015'
 uid: 5417bd09-2f3a-b39c-bdb7-f7a80a8ae5c1

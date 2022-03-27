@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings and Case Assignments
 parent_type: CourseSection
+parent_uid: d0844964-93ae-dcb1-b523-9942ca8708c6
 resourcetype: Document
 title: 'Case: Charles Matrix Greylock - 15.387 Spring 2015'
 uid: c0d23db1-1f98-4650-0baf-0613dfd25a91

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ba12fd09-fd5a-ef65-064f-20546074b33b
 resourcetype: Document
 title: 'Lecture 20: Selling Systems - 15.387 Spring 2015'
 uid: a03f37db-a7ba-fa70-ff40-84db9797bb14

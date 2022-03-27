@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ba12fd09-fd5a-ef65-064f-20546074b33b
 resourcetype: Document
 title: 'Lecture 11: Internal Expansion - 15.387 Spring 2015'
 uid: 6152cec9-0e8d-af67-f25e-dcf09a632313

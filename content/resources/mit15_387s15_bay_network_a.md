@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings and Case Assignments
 parent_type: CourseSection
+parent_uid: d0844964-93ae-dcb1-b523-9942ca8708c6
 resourcetype: Document
 title: 'Case: Bay Networks A - 15.387 Spring 2015'
 uid: 0e5468a5-631b-844b-6e65-89ddd0fffb0f

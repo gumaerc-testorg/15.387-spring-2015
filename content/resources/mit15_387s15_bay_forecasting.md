@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings and Case Assignments
 parent_type: CourseSection
+parent_uid: d0844964-93ae-dcb1-b523-9942ca8708c6
 resourcetype: Other
 title: MIT15_387S15_Bay_forecasting.xlsx
 uid: c037ec9f-de68-9030-54a1-4305f228e4c6
