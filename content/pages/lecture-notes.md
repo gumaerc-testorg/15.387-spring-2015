@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics and the lecture
+  notes used for each session.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -31,7 +33,7 @@ LECTURE NOTES
 Making a Sales Call
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 1: Introduction (PDF)]({{< baseurl >}}/resources/mit15_387s15_lecture1)
+{{% resource_link 3733d6e5-3cce-f030-e808-0c587a77aa4c "Lecture 1: Introduction (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +45,7 @@ Making a Sales Call
 Making a Sales Call & Product Knowledge
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 2: The Sale (PDF)]({{< baseurl >}}/resources/mit15_387s15_lecture2)
+{{% resource_link f624cbda-c29b-7bca-b19f-95af50d88bfb "Lecture 2: The Sale (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -55,7 +57,7 @@ Making a Sales Call & Product Knowledge
 Sales Prospecting
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 3: Prospecting (PDF)]({{< baseurl >}}/resources/mit15_387s15_lecture3)
+{{% resource_link 12f885d7-1634-7fc0-22a7-9ad959632601 "Lecture 3: Prospecting (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +69,7 @@ Sales Prospecting
 Setting Sales Quotas & Compensation
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 4: Sales Territories (PDF)]({{< baseurl >}}/resources/mit15_387s15_lecture4)
+{{% resource_link 3f62e971-df6d-94ee-8fce-f6dcde72e359 "Lecture 4: Sales Territories (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +81,7 @@ Setting Sales Quotas & Compensation
 Team Selling
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 5: Team Selling (PDF)]({{< baseurl >}}/resources/mit15_387s15_lecture5)
+{{% resource_link 70287e47-75ed-6fd1-28d0-435dd256e773 "Lecture 5: Team Selling (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -91,7 +93,7 @@ Team Selling
 Sales Training & Forecasting
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 6: Training and Forecasting (PDF)]({{< baseurl >}}/resources/mit15_387s15_lecture6)
+{{% resource_link 924768ee-0db7-5700-e526-089bdf1be547 "Lecture 6: Training and Forecasting (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -109,7 +111,7 @@ Channel Problems
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 7: Channel Conflict (PDF)]({{< baseurl >}}/resources/mit15_387s15_lecture7)
+{{% resource_link f2eb5cfb-fe45-b8b7-8639-c05c1dbf4646 "Lecture 7: Channel Conflict (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -121,7 +123,7 @@ Channel Problems
 Life of a Regional Sales Manager
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 8: Day-to-Day of a Manager (PDF)]({{< baseurl >}}/resources/mit15_387s15_lecture8)
+{{% resource_link 1c6c9c82-5c7e-77d6-4025-19b867944d56 "Lecture 8: Day-to-Day of a Manager (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -133,7 +135,7 @@ Life of a Regional Sales Manager
 Merger Problems
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 9: Combining Sales Forces (PDF)]({{< baseurl >}}/resources/mit15_387s15_lecture9)
+{{% resource_link 3ab23a2d-d73f-38b6-1ef3-e2a727c31c66 "Lecture 9: Combining Sales Forces (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -145,7 +147,7 @@ Merger Problems
 Managing an Inside Sales Organization
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 10: Scaling Inside Sales (PDF)]({{< baseurl >}}/resources/mit15_387s15_lecture10)
+{{% resource_link 004a4f27-2ebf-089e-32fc-ae0d2916b302 "Lecture 10: Scaling Inside Sales (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -163,7 +165,7 @@ Managing an Inside Sales Organization
 Opening a Subsidiary
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 11: Internal Expansion (PDF)]({{< baseurl >}}/resources/mit15_387s15_lecture11)
+{{% resource_link 6152cec9-0e8d-af67-f25e-dcf09a632313 "Lecture 11: Internal Expansion (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -175,7 +177,7 @@ Opening a Subsidiary
 Expanding to the U.S.
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 12: U.S. Market (PDF)]({{< baseurl >}}/resources/mit15_387s15_lecture12)
+{{% resource_link 694e289d-bda6-9d29-36e6-bc301ee1acc7 "Lecture 12: U.S. Market (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -187,7 +189,7 @@ Expanding to the U.S.
 Sales Force Reorganization
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 13: Reorganization (PDF)]({{< baseurl >}}/resources/mit15_387s15_lecture13)
+{{% resource_link 4613f42c-4048-e3aa-317c-a5b6345f5004 "Lecture 13: Reorganization (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -199,7 +201,7 @@ Sales Force Reorganization
 Negotiating an OEM Agreement
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 14: OEM Sales (PDF)]({{< baseurl >}}/resources/mit15_387s15_lecture14)
+{{% resource_link d0ff67a6-a3bc-1030-194c-2a2964c4edc6 "Lecture 14: OEM Sales (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -211,7 +213,7 @@ Negotiating an OEM Agreement
 Managing a Salesperson in a Large Company
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 15: Managing in a Large Company (PDF)]({{< baseurl >}}/resources/mit15_387s15_lecture15)
+{{% resource_link 4f6aced0-542c-610a-b2cb-9fa516fa5040 "Lecture 15: Managing in a Large Company (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -223,7 +225,7 @@ Managing a Salesperson in a Large Company
 Complex Sales Situations
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 16: Complex Sales (PDF)]({{< baseurl >}}/resources/mit15_387s15_lecture16)
+{{% resource_link 70fbed74-52a9-09b8-2e0f-b04a58ab37d0 "Lecture 16: Complex Sales (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -235,7 +237,7 @@ Complex Sales Situations
 Evolution of a Sales Model
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 17: Sales Model Evolution (PDF - 3.3MB)]({{< baseurl >}}/resources/mit15_387s15_lecture17)
+{{% resource_link 42d660df-abde-1aca-a1b2-e08d6ed68fec "Lecture 17: Sales Model Evolution (PDF - 3.3MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -247,7 +249,7 @@ Evolution of a Sales Model
 Freemium Business Models
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 18: Freemium Models (PDF)]({{< baseurl >}}/resources/mit15_387s15_lecture18)
+{{% resource_link 4631fa0e-1fcf-6d51-f034-d8b4c7600ee1 "Lecture 18: Freemium Models (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -259,7 +261,7 @@ Freemium Business Models
 Selling in the Age of Social Media
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 19: Social Media (PDF)]({{< baseurl >}}/resources/mit15_387s15_lecture19)
+{{% resource_link e6e081c3-eee1-6fba-63dc-6a178992c10c "Lecture 19: Social Media (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -271,7 +273,7 @@ Selling in the Age of Social Media
 Using Customer Relationship Management Software
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 20: Selling Systems (PDF - 2.2MB)]({{< baseurl >}}/resources/mit15_387s15_lecture20)
+{{% resource_link a03f37db-a7ba-fa70-ff40-84db9797bb14 "Lecture 20: Selling Systems (PDF - 2.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -283,7 +285,7 @@ Using Customer Relationship Management Software
 Using Marketing Automation Software
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 21: Marketing Automation Software (PDF)]({{< baseurl >}}/resources/mit15_387s15_lecture21)
+{{% resource_link 9ee12453-8e97-6447-f2e0-8df76d5afed4 "Lecture 21: Marketing Automation Software (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -295,7 +297,7 @@ Using Marketing Automation Software
 Wrap Up
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 22: Wrap Up (PDF)]({{< baseurl >}}/resources/mit15_387s15_lecture22)
+{{% resource_link 5417bd09-2f3a-b39c-bdb7-f7a80a8ae5c1 "Lecture 22: Wrap Up (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

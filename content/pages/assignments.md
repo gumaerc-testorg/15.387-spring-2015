@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section describes the assignments for the course in detail.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -13,7 +14,7 @@ Written Assignments
 -------------------
 
 **Case Preparations**  
-Every class is associated with a short, case-based assignment. See the [Readings and Case Assignments]({{< baseurl >}}/pages/readings-and-case-assignments) section for the list of cases. All students are required to be ready to discuss these assignments. You are required to turn in _11 written assignments over the course of the class_.
+Every class is associated with a short, case-based assignment. See the {{% resource_link d0844964-93ae-dcb1-b523-9942ca8708c6 "Readings and Case Assignments" %}} section for the list of cases. All students are required to be ready to discuss these assignments. You are required to turn in _11 written assignments over the course of the class_.
 
 Aside from explaining how you would go about solving the problems, assignments must illustrate which of the techniques learned in the class should be used to address the particular issue. Grades will be check, check plus or check minus. _Independently of turning in the written assignment, you must always come to class prepared to discuss the assignment and case at issue_.
 

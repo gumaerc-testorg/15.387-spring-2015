@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the readings and case assignments for each session
+  of the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Readings and Case Assignments
@@ -39,9 +41,9 @@ Making a Sales Call
 {{< tdopen >}}
 
 
-[Diver's Delight (PDF)]({{< baseurl >}}/resources/mit15_387s15_divers_delight)
+{{% resource_link 5aa33c92-d583-1b1c-dd93-40a812a42003 "Diver's Delight (PDF)" %}}
 
-[Grid Pro (PDF)]({{< baseurl >}}/resources/mit15_387s15_grid_pro)
+{{% resource_link c52b266f-35e4-6bc7-e70d-3cfbe3a17deb "Grid Pro (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -57,9 +59,9 @@ Making a Sales Call & Product Knowledge
 {{< tdopen >}}
 
 
-[Power Miser (PDF)]({{< baseurl >}}/resources/mit15_387s15_power_miser)
+{{% resource_link 17021a55-81eb-c8d4-c6dd-3099e38fe4eb "Power Miser (PDF)" %}}
 
-[Delphi Software (PDF)]({{< baseurl >}}/resources/mit15_387s15_delphi_soft)
+{{% resource_link 823d76a3-e08c-d44d-dffd-3448c00c7eff "Delphi Software (PDF)" %}}
 
 Bill Breen. "[The Big Score](http://www.fastcompany.com/47196/big-score)." _Fast Company_ Issue 74. September, 2003.
 
@@ -75,7 +77,7 @@ Bill Breen. "[The Big Score](http://www.fastcompany.com/47196/big-score)." _Fast
 Sales Prospecting
 {{< tdclose >}}
 {{< tdopen >}}
-[Pill Caddy (PDF)]({{< baseurl >}}/resources/mit15_387s15_pill_caddy)
+{{% resource_link 76f84b9b-e0fd-3688-8776-22a29fd50aa6 "Pill Caddy (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,7 +89,7 @@ Sales Prospecting
 Setting Sales Quotas & Compensation
 {{< tdclose >}}
 {{< tdopen >}}
-[Charles Matrix Greylock (PDF)]({{< baseurl >}}/resources/mit15_387s15_charles_matrix)
+{{% resource_link c0d23db1-1f98-4650-0baf-0613dfd25a91 "Charles Matrix Greylock (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +119,7 @@ Cespedes, Frank V., Stephen X. Doyle et al. "[Teamwork for Today's Selling](http
 Sales Training & Forecasting
 {{< tdclose >}}
 {{< tdopen >}}
-[Catherine Competitive Corporation A & B (PDF)]({{< baseurl >}}/resources/mit15_387s15_catherine_a_b)
+{{% resource_link 8834a63f-ec80-2bc1-c177-d8c2cfb166ba "Catherine Competitive Corporation A & B (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -161,13 +163,13 @@ Merger Problems
 {{< tdopen >}}
 
 
-[Bay Networks A (PDF)]({{< baseurl >}}/resources/mit15_387s15_bay_network_a)
+{{% resource_link 0e5468a5-631b-844b-6e65-89ddd0fffb0f "Bay Networks A (PDF)" %}}
 
-[Bay Networks B (PDF)]({{< baseurl >}}/resources/mit15_387s15_bay_network_b)
+{{% resource_link 02849392-8f6b-a599-496e-510e48f8871b "Bay Networks B (PDF)" %}}
 
-[Bay Networks Actuals (XLS)]({{< baseurl >}}/resources/mit15_387s15_bay_actuals), ([PDF]({{< baseurl >}}/resources/mit15_387s15_bay_actuals-1))
+{{% resource_link 6fcf0199-1df7-0eee-e05d-0d326c0844df "Bay Networks Actuals (XLS)" %}}, ({{% resource_link 072520c8-8f4a-66bc-3dae-30f177651481 "PDF" %}})
 
-[Bay Networks Forecasting (XLS)]({{< baseurl >}}/resources/mit15_387s15_bay_forecasting), ([PDF]({{< baseurl >}}/resources/mit15_387s15_bay_forecasting-1))
+{{% resource_link c037ec9f-de68-9030-54a1-4305f228e4c6 "Bay Networks Forecasting (XLS)" %}}, ({{% resource_link b46f8e77-8b7d-4a14-69dc-dbdd1cbb0679 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -205,7 +207,7 @@ Leslie, Mark, and Charles A. Holloway. [Sales Learning Curve](https://hbr.org/20
 Opening a Subsidiary
 {{< tdclose >}}
 {{< tdopen >}}
-[Abido Tech (PDF)]({{< baseurl >}}/resources/mit15_387s15_abido_tech)
+{{% resource_link 26999d37-4d29-bb28-271f-1f6847cead99 "Abido Tech (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -273,7 +275,7 @@ Cespedes, Frank V., and John T. Gourville. [Cabot Pharmaceuticals, Inc](https://
 Complex Sales Situations
 {{< tdclose >}}
 {{< tdopen >}}
-[Edge Analytics (PDF)]({{< baseurl >}}/resources/mit15_387s15_edge_anlytics)
+{{% resource_link 5f5b4936-af99-9b6c-07f3-a47c73cf9a4e "Edge Analytics (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -309,7 +311,7 @@ Teixeira, Thales S., and Elizabeth Anne Watkins. [Freemium Pricing at Dropbox](h
 Selling in the Age of Social Media
 {{< tdclose >}}
 {{< tdopen >}}
-[LuLu Instruments (PDF)]({{< baseurl >}}/resources/mit15_387s15_lulu_instrum)
+{{% resource_link ef048cfb-efb2-3b3c-e89a-43bdfbcee7a3 "LuLu Instruments (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
