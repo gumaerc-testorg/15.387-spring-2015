@@ -6,6 +6,7 @@ file: /courses/15-387-entrepreneurial-sales-spring-2015/3f62e971df6d94ee8fcef6dc
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Lecture 4: Setting Sales Territories, Compensation and Quotas - 15.387 S
 uid: 3f62e971-df6d-94ee-8fce-f6dcde72e359
 ---
 This resource contains the information regarding Setting Sales Territories, Compensation and Quotas.
-

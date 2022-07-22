@@ -6,6 +6,7 @@ file: /courses/15-387-entrepreneurial-sales-spring-2015/f624cbdac29b7bcab19f95af
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Lecture 2: The Sale: Preparation, Approach, and Presentation/Demonstrati
 uid: f624cbda-c29b-7bca-b19f-95af50d88bfb
 ---
 This resource contains the information regarding The Sale: Preparation, Approach, and Presentation/Demonstration.
-

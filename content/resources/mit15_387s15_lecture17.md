@@ -6,6 +6,7 @@ file: /courses/15-387-entrepreneurial-sales-spring-2015/42d660dfabde1acaa1b2e08d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Lecture 17: Evolution of a Sales Model - Jive Software - 15.387 Spring 2
 uid: 42d660df-abde-1aca-a1b2-e08d6ed68fec
 ---
 This resource contains information related to Evolution of a Sales Model - Jive Software.
-

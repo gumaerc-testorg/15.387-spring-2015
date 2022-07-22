@@ -6,6 +6,7 @@ file: /courses/15-387-entrepreneurial-sales-spring-2015/3733d6e53ccef030e8080c58
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Lecture 1: Introduction - "Diver''s Delight" - 15.387 Spring 2015'
 uid: 3733d6e5-3cce-f030-e808-0c587a77aa4c
 ---
 This resource contains the information regarding  Introduction - "Diver's Delight".
-
