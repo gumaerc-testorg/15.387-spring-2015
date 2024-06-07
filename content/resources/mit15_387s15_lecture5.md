@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Team Selling.
 file: /courses/15-387-entrepreneurial-sales-spring-2015/70287e4775ed6fd128d0435dd256e773_MIT15_387S15_Lecture5.pdf
+file_size: 149311
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

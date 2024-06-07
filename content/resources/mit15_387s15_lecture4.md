@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding Setting Sales Territories,
   Compensation and Quotas.
 file: /courses/15-387-entrepreneurial-sales-spring-2015/3f62e971df6d94ee8fcef6dcde72e359_MIT15_387S15_Lecture4.pdf
+file_size: 135811
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to Complex Sales Situations
   - Edge Analytics.
 file: /courses/15-387-entrepreneurial-sales-spring-2015/70fbed7452a909b82e0fb04a58ab37d0_MIT15_387S15_Lecture16.pdf
+file_size: 315006
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

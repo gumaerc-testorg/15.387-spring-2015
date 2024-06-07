@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding LuLu Instruments.
 file: /courses/15-387-entrepreneurial-sales-spring-2015/ef048cfbefb23b3ce89a43bdfbcee7a3_MIT15_387S15_LuLu_Instrum.pdf
+file_size: 151601
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

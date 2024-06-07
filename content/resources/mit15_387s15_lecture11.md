@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Internal Expansion.
 file: /courses/15-387-entrepreneurial-sales-spring-2015/6152cec90e8daf67f25edcf09a632313_MIT15_387S15_Lecture11.pdf
+file_size: 179826
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
