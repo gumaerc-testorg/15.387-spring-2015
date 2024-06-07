@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Bay Networks Forecasting.
 file: /courses/15-387-entrepreneurial-sales-spring-2015/b46f8e778b7d4a1469dcdbdd1cbb0679_MIT15_387S15_Bay_forecasting.pdf
+file_size: 231303
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

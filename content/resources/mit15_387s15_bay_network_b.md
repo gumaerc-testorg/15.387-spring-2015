@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Bay Networks B.
 file: /courses/15-387-entrepreneurial-sales-spring-2015/028493928f6ba599496e510e48f8871b_MIT15_387S15_Bay_Network_B.pdf
+file_size: 420870
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

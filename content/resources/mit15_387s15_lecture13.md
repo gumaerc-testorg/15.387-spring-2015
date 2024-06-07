@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding Sales Force Reorganization
   - Veritas.
 file: /courses/15-387-entrepreneurial-sales-spring-2015/4613f42c4048e3aa317ca5b6345f5004_MIT15_387S15_Lecture13.pdf
+file_size: 125955
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

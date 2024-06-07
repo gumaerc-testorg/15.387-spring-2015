@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Diver's Delight.
 file: /courses/15-387-entrepreneurial-sales-spring-2015/5aa33c92d5831b1cdd9340a812a42003_MIT15_387S15_Divers_Delight.pdf
+file_size: 169239
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Delphi Software .
 file: /courses/15-387-entrepreneurial-sales-spring-2015/823d76a3e08cd44ddffd3448c00c7eff_MIT15_387S15_Delphi_Soft.pdf
+file_size: 207830
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
