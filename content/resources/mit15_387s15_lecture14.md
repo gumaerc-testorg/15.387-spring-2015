@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to OEM Sales - EMC and OuterBay.
 file: /courses/15-387-entrepreneurial-sales-spring-2015/d0ff67a6a3bc1030194c2a2964c4edc6_MIT15_387S15_Lecture14.pdf
+file_size: 204867
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

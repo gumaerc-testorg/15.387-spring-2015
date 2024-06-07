@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Power Miser.
 file: /courses/15-387-entrepreneurial-sales-spring-2015/17021a5581ebc8d4c6dd3099e38fe4eb_MIT15_387S15_Power_Miser.pdf
+file_size: 153759
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
