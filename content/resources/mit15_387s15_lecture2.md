@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding The Sale: Preparation,
   Approach, and Presentation/Demonstration.'
-file: /courses/15-387-entrepreneurial-sales-spring-2015/f624cbdac29b7bcab19f95af50d88bfb_MIT15_387S15_Lecture2.pdf
+file: /ol-ocw-studio-app/courses/15-387-entrepreneurial-sales-spring-2015/f624cbdac29b7bcab19f95af50d88bfb_MIT15_387S15_Lecture2.pdf
 file_size: 319356
 file_type: application/pdf
 learning_resource_types:
