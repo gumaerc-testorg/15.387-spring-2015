@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Combining Sales Forces
   - Bay Networks A & B.
-file: /courses/15-387-entrepreneurial-sales-spring-2015/3ab23a2dd73f38b61ef3e2a727c31c66_MIT15_387S15_Lecture9.pdf
+file: /ol-ocw-studio-app/courses/15-387-entrepreneurial-sales-spring-2015/3ab23a2dd73f38b61ef3e2a727c31c66_MIT15_387S15_Lecture9.pdf
 file_size: 282276
 file_type: application/pdf
 learning_resource_types:

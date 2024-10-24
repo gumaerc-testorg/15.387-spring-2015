@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to Freemium Sales Models -
   Dropbox.
-file: /courses/15-387-entrepreneurial-sales-spring-2015/4631fa0e1fcf6d51f034d8b4c7600ee1_MIT15_387S15_Lecture18.pdf
+file: /ol-ocw-studio-app/courses/15-387-entrepreneurial-sales-spring-2015/4631fa0e1fcf6d51f034d8b4c7600ee1_MIT15_387S15_Lecture18.pdf
 file_size: 328533
 file_type: application/pdf
 learning_resource_types:
