@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Scaling Inside Sales
   - Qualtrics.
-file: /courses/15-387-entrepreneurial-sales-spring-2015/004a4f272ebf089e32fcae0d2916b302_MIT15_387S15_Lecture10.pdf
+file: /ol-ocw-studio-app/courses/15-387-entrepreneurial-sales-spring-2015/004a4f272ebf089e32fcae0d2916b302_MIT15_387S15_Lecture10.pdf
 file_size: 281748
 file_type: application/pdf
 learning_resource_types:
