@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to Edge Analytics.
-file: /ol-ocw-studio-app/courses/15-387-entrepreneurial-sales-spring-2015/5f5b4936af999b6c07f3a47c73cf9a4e_MIT15_387S15_Edge_Anlytics.pdf
+file: /courses/15-387-entrepreneurial-sales-spring-2015/5f5b4936af999b6c07f3a47c73cf9a4e_MIT15_387S15_Edge_Anlytics.pdf
 file_size: 341456
 file_type: application/pdf
 learning_resource_types: []
