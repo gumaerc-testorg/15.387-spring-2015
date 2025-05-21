@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Charles Matrix Greylock.
-file: /ol-ocw-studio-app/courses/15-387-entrepreneurial-sales-spring-2015/c0d23db11f9846500baf0613dfd25a91_MIT15_387S15_Charles_Matrix.pdf
+file: /courses/15-387-entrepreneurial-sales-spring-2015/c0d23db11f9846500baf0613dfd25a91_MIT15_387S15_Charles_Matrix.pdf
 file_size: 122746
 file_type: application/pdf
 learning_resource_types: []

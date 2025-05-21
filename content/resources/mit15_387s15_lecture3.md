@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Prospecting - Pill Caddy.
-file: /ol-ocw-studio-app/courses/15-387-entrepreneurial-sales-spring-2015/12f885d716347fc022a79ad959632601_MIT15_387S15_Lecture3.pdf
+file: /courses/15-387-entrepreneurial-sales-spring-2015/12f885d716347fc022a79ad959632601_MIT15_387S15_Lecture3.pdf
 file_size: 802699
 file_type: application/pdf
 learning_resource_types:

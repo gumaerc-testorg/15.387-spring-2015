@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding  Introduction - "Diver's
   Delight".
-file: /ol-ocw-studio-app/courses/15-387-entrepreneurial-sales-spring-2015/3733d6e53ccef030e8080c587a77aa4c_MIT15_387S15_Lecture1.pdf
+file: /courses/15-387-entrepreneurial-sales-spring-2015/3733d6e53ccef030e8080c587a77aa4c_MIT15_387S15_Lecture1.pdf
 file_size: 699932
 file_type: application/pdf
 learning_resource_types:
