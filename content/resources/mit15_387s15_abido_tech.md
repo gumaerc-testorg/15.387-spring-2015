@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Abido Tech.
-file: /ol-ocw-studio-app/courses/15-387-entrepreneurial-sales-spring-2015/26999d374d29bb28271f1f6847cead99_MIT15_387S15_Abido_Tech.pdf
+file: /courses/15-387-entrepreneurial-sales-spring-2015/26999d374d29bb28271f1f6847cead99_MIT15_387S15_Abido_Tech.pdf
 file_size: 176832
 file_type: application/pdf
 learning_resource_types: []
