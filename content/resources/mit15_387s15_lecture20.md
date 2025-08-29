@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to Selling Systems.
-file: /courses/15-387-entrepreneurial-sales-spring-2015/a03f37dba7bafa70ff4084db9797bb14_MIT15_387S15_Lecture20.pdf
+file: /ol-ocw-studio-app/courses/15-387-entrepreneurial-sales-spring-2015/a03f37dba7bafa70ff4084db9797bb14_MIT15_387S15_Lecture20.pdf
 file_size: 2315749
 file_type: application/pdf
 learning_resource_types:

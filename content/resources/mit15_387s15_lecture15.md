@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to Managing a Salesperson
   in a Large Company - Cabot Pharmaceuticals.
-file: /courses/15-387-entrepreneurial-sales-spring-2015/4f6aced0542c610ab2cb9fa516fa5040_MIT15_387S15_Lecture15.pdf
+file: /ol-ocw-studio-app/courses/15-387-entrepreneurial-sales-spring-2015/4f6aced0542c610ab2cb9fa516fa5040_MIT15_387S15_Lecture15.pdf
 file_size: 92212
 file_type: application/pdf
 learning_resource_types:
