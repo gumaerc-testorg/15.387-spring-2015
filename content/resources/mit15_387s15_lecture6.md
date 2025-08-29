@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Sales Training and Forecasting.
-file: /courses/15-387-entrepreneurial-sales-spring-2015/924768ee0db75700e526089bdf1be547_MIT15_387S15_Lecture6.pdf
+file: /ol-ocw-studio-app/courses/15-387-entrepreneurial-sales-spring-2015/924768ee0db75700e526089bdf1be547_MIT15_387S15_Lecture6.pdf
 file_size: 447099
 file_type: application/pdf
 learning_resource_types:

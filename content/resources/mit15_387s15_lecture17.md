@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to Evolution of a Sales Model
   - Jive Software.
-file: /courses/15-387-entrepreneurial-sales-spring-2015/42d660dfabde1acaa1b2e08d6ed68fec_MIT15_387S15_Lecture17.pdf
+file: /ol-ocw-studio-app/courses/15-387-entrepreneurial-sales-spring-2015/42d660dfabde1acaa1b2e08d6ed68fec_MIT15_387S15_Lecture17.pdf
 file_size: 3480126
 file_type: application/pdf
 learning_resource_types:
